@@ -91,11 +91,11 @@ To update `composer.json`:
 
 	Exact version example:
 
-		composer require magento/data-migration-tool:2.0.0
+		composer require magento/data-migration-tool:2.1.0
 
 	Next significant release example:
 
-		composer require magento/data-migration-tool:~2.0.0
+		composer require magento/data-migration-tool:~2.1.0
 
 9.	Wait while dependencies are installed.
 
